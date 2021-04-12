@@ -6,17 +6,22 @@
       "properties": {
         "id": "4125605",
         "name": "São Mateus do Sul",
-        "endereco": {
-          "rua": "Rua tal",
-          "num": "xxx",
-          "bairro": "bairro tal",
-          "cidade": "Cidade tal"
-        },
-        "contato": {
-          "fone": "(46) 99999-9999",
-          "email": "teste@teste.com.br",
-          "site": "teste.com.br"
+        "instituicoes": {
+		"idinsti": "01",
+		"nomeinst": "Sicoob",
+		"img": "",
+		"endereco": {
+          		"rua": "Rua tal",
+          		"num": "xxx",
+          		"bairro": "bairro tal",
+          		"cidade": "Cidade tal"
+        	},
+        	"contato": {
+          		"fone": "(46) 99999-9999",
+          		"email": "teste@teste.com.br",
+          		"site": "teste.com.br"
         }
+	}
       },
       "geometry": {
         "type": "Polygon",
