@@ -24,7 +24,7 @@
         "idinsti": "02",
         "idEspInst": "002",
         "nomeinst": "Banco do Brasil",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/bb.png",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/bdb.png",
         "endereco": {
           "rua": "Avenida Tupi",
           "num": "2581",
@@ -92,7 +92,7 @@
         "idinsti": "06",
         "idEspInst": "005",
         "nomeinst": "Cresol",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/cresol.png",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/cresoll.png",
         "endereco": {
           "rua": "Rua Guarani",
           "num": "698",
@@ -115,7 +115,7 @@
         "idinsti": "01",
         "idEspInst": "005",
         "nomeinst": "Cresol",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/cresol.png",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/cresoll.png",
         "endereco": {
           "rua": "Avenida Salgado Filho",
           "num": "280",
@@ -132,7 +132,7 @@
         "idinsti": "02",
         "idEspInst": "006",
         "nomeinst": "Evolua",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/evolua.png",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/evoluaa.png",
         "endereco": {
           "rua": "Rua João Dalpasquale",
           "num": "479",
@@ -183,7 +183,7 @@
         "idinsti": "05",
         "idEspInst": "002",
         "nomeinst": "Banco do Brasil",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/bb.png",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/bdb.png",
         "endereco": {
           "rua": "Avenida Tupi",
           "num": "2581",
