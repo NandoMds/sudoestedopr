@@ -5,6 +5,7 @@
     "instituicoes": [
       {
         "idinsti": "01",
+        "idEspInst": "001",
         "nomeinst": "Sicoob",
         "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/sicoob.png",
         "endereco": {
@@ -21,6 +22,7 @@
       },
       {
         "idinsti": "02",
+        "idEspInst": "002",
         "nomeinst": "Banco do Brasil",
         "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/bb.png",
         "endereco": {
@@ -37,6 +39,7 @@
       },
       {
         "idinsti": "03",
+        "idEspInst": "003",
         "nomeinst": "Sicredi",
         "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/sicredi.png",
         "endereco": {
@@ -53,6 +56,7 @@
       },
       {
         "idinsti": "04",
+        "idEspInst": "004",
         "nomeinst": "Uniprime",
         "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/uniprime.png",
         "endereco": {
@@ -66,6 +70,40 @@
           "email": "uniprime@uniprime.com.br",
           "site": "https://www.uniprime.com.br/singular/iguacu"
         }
+      },
+      {
+        "idinsti": "05",
+        "idEspInst": "007",
+        "nomeinst": "Caixa",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/caixa.png",
+        "endereco": {
+          "rua": "Avenida Tupi",
+          "num": "2451",
+          "bairro": "Centro",
+          "cidade": "Pato Branco - PR"
+        },
+        "contato": {
+          "fone": "0800 104 0 104",
+          "email": "caixa@caixa.com.br",
+          "site": "https://www.caixa.gov.br/Paginas/home-caixa.aspx"
+        }
+      },
+      {
+        "idinsti": "06",
+        "idEspInst": "005",
+        "nomeinst": "Cresol",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/cresol.png",
+        "endereco": {
+          "rua": "Rua Guarani",
+          "num": "698",
+          "bairro": "Centro",
+          "cidade": "Pato Branco - PR"
+        },
+        "contato": {
+          "fone": "(46) 3536-2575",
+          "email": "pioneira@cresol.com.br",
+          "site": "https://www.cresol.coop.br/"
+        }
       }
     ]
   },
@@ -75,6 +113,7 @@
     "instituicoes": [
       {
         "idinsti": "01",
+        "idEspInst": "005",
         "nomeinst": "Cresol",
         "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/cresol.png",
         "endereco": {
@@ -91,6 +130,7 @@
       },
       {
         "idinsti": "02",
+        "idEspInst": "006",
         "nomeinst": "Evolua",
         "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/evolua.png",
         "endereco": {
@@ -106,7 +146,8 @@
         }
       },
       {
-        "idinsti": "04",
+        "idinsti": "03",
+        "idEspInst": "007",
         "nomeinst": "Caixa",
         "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/caixa.png",
         "endereco": {
@@ -119,6 +160,57 @@
           "fone": "0800 104 0 104",
           "email": "caixa@caixa.com.br",
           "site": "https://www.caixa.gov.br/Paginas/home-caixa.aspx"
+        }
+      },
+      {
+        "idinsti": "04",
+        "idEspInst": "003",
+        "nomeinst": "Sicredi",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/sicredi.png",
+        "endereco": {
+          "rua": "João Dalpasquale",
+          "num": "240",
+          "bairro": "Centro",
+          "cidade": "Dois Vizinhos - PR"
+        },
+        "contato": {
+          "fone": "(46) 3536-4355",
+          "email": "sicredi@sicredi.com.br",
+          "site": "https://www.sicredi.com.br/"
+        }
+      },
+      {
+        "idinsti": "05",
+        "idEspInst": "002",
+        "nomeinst": "Banco do Brasil",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/bb.png",
+        "endereco": {
+          "rua": "Avenida Tupi",
+          "num": "2581",
+          "bairro": "Centro",
+          "cidade": "Pato Branco - PR"
+        },
+        "contato": {
+          "fone": "(46) 4003-3001",
+          "email": "bb@bb.com.br",
+          "site": "https://www.bb.com.br/"
+        }
+      },
+      {
+        "idinsti": "06",
+        "idEspInst": "001",
+        "nomeinst": "Sicoob",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/sicoob.png",
+        "endereco": {
+          "rua": "Rua João Dalpasquale",
+          "num": "511",
+          "bairro": "Centro Norte",
+          "cidade": "Dois Vizinhos - PR"
+        },
+        "contato": {
+          "fone": "(46) 3536-2666",
+          "email": "dpo@sicoob.com.br",
+          "site": "https://www.sicoobunicoob.com.br/"
         }
       }
     ]
