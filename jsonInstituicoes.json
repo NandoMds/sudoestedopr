@@ -7,7 +7,7 @@
         "idinsti": "01",
         "idEspInst": "001",
         "nomeinst": "Sicoob",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/sicoob.png",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imgs/logosicoob.png",
         "endereco": {
           "rua": "Rua Tapajós",
           "num": "440",
@@ -24,7 +24,7 @@
         "idinsti": "02",
         "idEspInst": "002",
         "nomeinst": "Banco do Brasil",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/bdb.png",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imgs/logobb.png",
         "endereco": {
           "rua": "Avenida Tupi",
           "num": "2581",
@@ -41,7 +41,7 @@
         "idinsti": "03",
         "idEspInst": "003",
         "nomeinst": "Sicredi",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/sicredi.png",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imgs/logosicredi.png",
         "endereco": {
           "rua": "Avenida Tupi",
           "num": "4206",
@@ -58,7 +58,7 @@
         "idinsti": "04",
         "idEspInst": "004",
         "nomeinst": "Uniprime",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/uniprime.png",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imgs/logouniprime.png",
         "endereco": {
           "rua": "Avenida Brasil",
           "num": "910",
@@ -75,7 +75,7 @@
         "idinsti": "05",
         "idEspInst": "007",
         "nomeinst": "Caixa",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/caixa.png",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imgs/logocaixa.png",
         "endereco": {
           "rua": "Avenida Tupi",
           "num": "2451",
@@ -92,7 +92,7 @@
         "idinsti": "06",
         "idEspInst": "005",
         "nomeinst": "Cresol",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/cresoll.png",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imgs/logocresol.png",
         "endereco": {
           "rua": "Rua Guarani",
           "num": "698",
@@ -115,7 +115,7 @@
         "idinsti": "07",
         "idEspInst": "005",
         "nomeinst": "Cresol",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/cresoll.png",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imgs/logocresol.png",
         "endereco": {
           "rua": "Avenida Salgado Filho",
           "num": "280",
@@ -132,7 +132,7 @@
         "idinsti": "08",
         "idEspInst": "006",
         "nomeinst": "Evolua",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/evoluaa.png",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imgs/logoevolua.png",
         "endereco": {
           "rua": "Rua João Dalpasquale",
           "num": "479",
@@ -149,7 +149,7 @@
         "idinsti": "09",
         "idEspInst": "007",
         "nomeinst": "Caixa",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/caixa.png",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imgs/logocaixa.png",
         "endereco": {
           "rua": "Rua Sete de Setembro",
           "num": "219",
@@ -166,7 +166,7 @@
         "idinsti": "10",
         "idEspInst": "003",
         "nomeinst": "Sicredi",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/sicredi.png",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imgs/logosicredi.png",
         "endereco": {
           "rua": "João Dalpasquale",
           "num": "240",
@@ -183,7 +183,7 @@
         "idinsti": "11",
         "idEspInst": "002",
         "nomeinst": "Banco do Brasil",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/bdb.png",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imgs/logobb.png",
         "endereco": {
           "rua": "Avenida Tupi",
           "num": "2581",
@@ -200,7 +200,7 @@
         "idinsti": "12",
         "idEspInst": "001",
         "nomeinst": "Sicoob",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Imagens+site+SRC/sicoob.png",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imgs/logosicoob.png",
         "endereco": {
           "rua": "Rua João Dalpasquale",
           "num": "511",
