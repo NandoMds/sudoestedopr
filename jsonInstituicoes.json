@@ -104,6 +104,40 @@
           "email": "pioneira@cresol.com.br",
           "site": "https://www.cresol.coop.br/"
         }
+      },
+      {
+        "idinsti": "07",
+        "idEspInst": "005",
+        "nomeinst": "Cresol",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imgs/logocresol.png",
+        "endereco": {
+          "rua": "Testando",
+          "num": "xxx",
+          "bairro": "xxxx",
+          "cidade": "Pato Branco - PR"
+        },
+        "contato": {
+          "fone": "(46) 3536-2575",
+          "email": "pioneira@cresol.com.br",
+          "site": "https://www.cresol.coop.br/"
+        }
+      },
+      {
+        "idinsti": "08",
+        "idEspInst": "007",
+        "nomeinst": "Caixa",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imgs/logocaixa.png",
+        "endereco": {
+          "rua": "testando",
+          "num": "xxx",
+          "bairro": "xx",
+          "cidade": "Pato Branco - PR"
+        },
+        "contato": {
+          "fone": "0800 104 0 104",
+          "email": "caixa@caixa.com.br",
+          "site": "https://www.caixa.gov.br/Paginas/home-caixa.aspx"
+        }
       }
     ]
   },
@@ -205,6 +239,23 @@
           "rua": "Rua João Dalpasquale",
           "num": "511",
           "bairro": "Centro Norte",
+          "cidade": "Dois Vizinhos - PR"
+        },
+        "contato": {
+          "fone": "(46) 3536-2666",
+          "email": "dpo@sicoob.com.br",
+          "site": "https://www.sicoobunicoob.com.br/"
+        }
+      },
+      {
+        "idinsti": "13",
+        "idEspInst": "001",
+        "nomeinst": "Sicoob",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imgs/logosicoob.png",
+        "endereco": {
+          "rua": "testando",
+          "num": "xxx",
+          "bairro": "xxxx",
           "cidade": "Dois Vizinhos - PR"
         },
         "contato": {
