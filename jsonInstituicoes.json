@@ -8,7 +8,7 @@
         "idEspInst": "002",
         "nomeinst": "Banco do Brasil",
         "desc":"Banco do Brasil",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/logobb.png",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/logobancodobrasil.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -44,7 +44,7 @@
         "idEspInst": "004",
         "nomeinst": "Uniprime",
         "desc": "Uniprime",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/Camada+1.png",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/uniprime.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -62,7 +62,7 @@
         "idEspInst": "006",
         "nomeinst": "Evolua",
         "desc": "Evolua",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/logoevolua.png",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/logoevolua2.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -140,7 +140,7 @@
         "idEspInst": "008",
         "nomeinst": "Banco da Família",
         "desc": "Banco da Família",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/bf.png",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/bancodafamilia.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -158,7 +158,7 @@
         "idEspInst": "008",
         "nomeinst": "Banco da Família",
         "desc": "Banco da Família",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/bf.png",
+        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/bancodafamilia.png",
         "endereco": {
           "rua": "",
           "num": "",
