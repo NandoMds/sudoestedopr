@@ -8,7 +8,7 @@
         "idEspInst": "002",
         "nomeinst": "Banco do Brasil",
         "desc":"Banco do Brasil",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logobancodobrasil.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/logobb.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -27,7 +27,7 @@
         "idEspInst": "003",
         "nomeinst": "Sicredi",
         "desc":"Sicredi Parque das Araucárias",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logosicredi.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lsicre.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -46,7 +46,7 @@
         "idEspInst": "004",
         "nomeinst": "Uniprime",
         "desc": "Uniprime",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/uniprime.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/luni.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -65,7 +65,7 @@
         "idEspInst": "006",
         "nomeinst": "Evolua",
         "desc": "Evolua",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logoevolua2.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/levol.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -84,7 +84,7 @@
         "idEspInst": "003",
         "nomeinst": "Sicredi",
         "desc": "Sicredi",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logosicredi.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lsicre.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -103,7 +103,7 @@
         "idEspInst": "003",
         "nomeinst": "Sicredi",
         "desc": "Sicredi Parque das Araucárias PR/SC/SP",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logosicredi.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lsicre.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -122,7 +122,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "PATO BRANCO - AG. TRABALHADOR",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -141,7 +141,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "PATO BRANCO - FERREIRA E SILVA - CORRESP",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -166,7 +166,7 @@
         "idEspInst": "005",
         "nomeinst": "Cresol",
         "desc": "Cresol",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logocresol.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lcresol.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -185,7 +185,7 @@
         "idEspInst": "008",
         "nomeinst": "Banco da Família",
         "desc": "Banco da Família",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/bancodafamilia.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfa.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -204,7 +204,7 @@
         "idEspInst": "008",
         "nomeinst": "Banco da Família",
         "desc": "Banco da Família",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/bancodafamilia.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfa.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -229,7 +229,7 @@
         "idEspInst": "001",
         "nomeinst": "Sicoob",
         "desc": "Sicoob Vale Sul",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logosicoob.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lsebrae.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -248,7 +248,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "FRANCISCO BELTRAO - BANCO EMPREENDEDOR",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -267,7 +267,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "FRANCISCO BELTRAO - BANCO EMPREENDEDOR",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -286,7 +286,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "FCO BELTRÃO - SINDILOJAS-CORRESPONDENTE",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -305,7 +305,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "FRANCISCO BELTRAO - BANCO EMPREENDEDOR",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -324,7 +324,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "SGC GARANTISUDOESTE",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -349,7 +349,7 @@
         "idEspInst": "003",
         "nomeinst": "Sicredi",
         "desc": "Sicredi",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logosicredi.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lsicre.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -368,7 +368,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "CORONEL VIVIDA - AG. TRABALHADOR",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -393,7 +393,7 @@
         "idEspInst": "003",
         "nomeinst": "Sicredi",
         "desc": "Sicredi",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logosicredi.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lsicre.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -418,7 +418,7 @@
         "idEspInst": "003",
         "nomeinst": "Sicredi",
         "desc": "Sicredi",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logosicredi.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lsicre.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -443,7 +443,7 @@
         "idEspInst": "003",
         "nomeinst": "Sicredi",
         "desc": "Sicredi",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logosicredi.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lsicre.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -462,7 +462,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "VITORINO - PREFEITURA",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -481,7 +481,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "VITORINO - PREFEITURA",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -506,7 +506,7 @@
         "idEspInst": "001",
         "nomeinst": "Sicoob",
         "desc": "Sicoob Canoinhas",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logosicoob.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lsebrae.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -531,7 +531,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "BITURUNA - CENTRO CIDADÃO E EMPREENDEDOR",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -556,7 +556,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "BOM JESUS DO SUL - PREFEITURA",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -581,7 +581,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "CAPANEMA - ACEC - CORRESPONDENTE",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -600,7 +600,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "CAPANEMA - ACEC - CORRESPONDENTE",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -625,7 +625,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "CHOPINZINHO - PREFEITURA",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -650,7 +650,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "CLEVELÂNDIA - AGENCIA TRABALHADOR SINE",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -675,7 +675,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "CRUZEIRO DO IGUACU - PREFEITURA",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -700,7 +700,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "DOIS VIZINHOS - ACEDV - CORRESPONDENTE",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -725,7 +725,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "GENERAL CARNEIRO - CENTRO MULTIPLO USO",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -750,7 +750,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "HONORIO SERPA - AG. TRABALHADOR",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -775,7 +775,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "ITAPEJARA DO OESTE - PREFEITURA",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -800,7 +800,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "MANGUEIRINHA - AG. TRABALHADOR",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -819,7 +819,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "MANGUEIRINHA - AG. TRABALHADOR",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -844,7 +844,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "NOVA ESPERANCA - PREFEITURA",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -863,7 +863,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "NOVA ESPERANCA - PREFEITURA",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -888,7 +888,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "NOVA PRATA DO IGUACU - PREFEITURA",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -913,7 +913,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "PALMAS - SALA DO EMPREENDEDOR",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -938,7 +938,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "PAULA FREITAS - PREFEITURA",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -963,7 +963,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "PLANALTO - AG. TRABALHADOR",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -988,7 +988,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "REALEZA - PREFEITURA",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -1007,7 +1007,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "REALEZA - ACIAR - CORRESPONDENTE ",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -1032,7 +1032,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "SAO JOAO - PREFEITURA MUNICIPAL",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -1057,7 +1057,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "SÃO JORGE DO OESTE - PREFEITURA",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -1082,7 +1082,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "SÃO MATEUS DO SUL - PREFEITURA",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -1107,7 +1107,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "SAUDADE DO IGUAÇU - CRAS",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -1132,7 +1132,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "SULINA - PREFEITURA",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -1157,7 +1157,7 @@
         "idEspInst": "009",
         "nomeinst": "Fomento PR",
         "desc": "VERÊ - PREFEITURA",
-        "img": "https://eadleadfinder.s3-sa-east-1.amazonaws.com/Site+Src/imagens/logofomentopr.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/lfomento.png",
         "endereco": {
           "rua": "",
           "num": "",
