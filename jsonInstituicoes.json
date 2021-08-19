@@ -337,6 +337,25 @@
           "email":"secretaria@garantisudoeste.org.br",
           "site": "http://garantisudoeste.org.br/"
         }
+      },
+      {
+        "idinsti": "64",
+        "idEspInst": "007",
+        "nomeinst": "Caixa",
+        "desc": "Caixa",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/novas/lcaixa.png",
+        "endereco": {
+          "rua": "",
+          "num": "",
+          "bairro": "",
+          "cidade": "Francisco Beltrão - PR"
+        },
+        "contato": {
+          "pessoa": "Ângelo Colombo",
+          "fone": "(46) 3211-1150",
+          "email":"",
+          "site": "https://www.caixa.gov.br/Paginas/home-caixa.aspx"
+        }
       }
     ]
   },
