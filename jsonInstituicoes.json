@@ -613,6 +613,25 @@
           "email":"weillerdjenifer@gmail.com",
           "site": "https://acecempresarial.com.br/"
         }
+      },
+      {
+        "idinsti": "63",
+        "idEspInst": "009",
+        "nomeinst": "Fomento PR",
+        "desc": "",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/novas/lfomento.png",
+        "endereco": {
+          "rua": "",
+          "num": "",
+          "bairro": "",
+          "cidade": "Capanema - PR"
+        },
+        "contato": {
+          "pessoa": "GISELDA DA ROSA SCHIMITEZ",
+          "fone": "(46) 3552-2166",
+          "email":"saladoempreendedor@capanema.pr.gov.br",
+          "site": "https://acecempresarial.com.br/"
+        }
       }
     ]
   },
