@@ -249,6 +249,25 @@
           "email":"",
           "site": "https://unicred.com.br/centralscpr"
         }
+      },
+      {
+        "idinsti": "84",
+        "idEspInst": "013",
+        "nomeinst": "Sebrae",
+        "desc": "Sebrae",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/novas/lsebrae.png",
+        "endereco": {
+          "rua": "",
+          "num": "",
+          "bairro": "",
+          "cidade": "Pato Branco - PR"
+        },
+        "contato": {
+          "pessoa": "Entre em contato com nosso o atendimento",
+          "fone": "(46) 3220-1250 | (46) 99135-7714",
+          "email":"",
+          "site": "https://www.sebraepr.com.br/"
+        }
       }
     ]
   },
@@ -369,6 +388,25 @@
           "email":"",
           "site": "https://www.omni.com.br/agente-uniao-da-vitoria"
         }
+      },
+      {
+        "idinsti": "85",
+        "idEspInst": "013",
+        "nomeinst": "Sebrae",
+        "desc": "Sebrae",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/novas/lsebrae.png",
+        "endereco": {
+          "rua": "",
+          "num": "",
+          "bairro": "",
+          "cidade": "União da Vitória - PR"
+        },
+        "contato": {
+          "pessoa": "Entre em contato com nosso o atendimento",
+          "fone": "(42) 3223-4829 | (46) 99135-7714",
+          "email":"",
+          "site": "https://www.sebraepr.com.br/"
+        }
       }
     ]
   },
@@ -475,8 +513,8 @@
         "idinsti": "17",
         "idEspInst": "010",
         "nomeinst": "SGC",
-        "desc": "SGC GARANTISUDOESTE",
-        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/novas/lsgc.png",
+        "desc": "GarantiSudoeste",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/novas/lgaranti.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -514,7 +552,7 @@
         "idEspInst": "010",
         "nomeinst": "SGC",
         "desc": "GarantiSudoeste",
-        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/novas/lsgc.png",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/novas/lgaranti.png",
         "endereco": {
           "rua": "",
           "num": "",
@@ -526,6 +564,25 @@
           "fone": "(46) 99138-0379",
           "email":"alexandrebbattistella@hotmail.com.br",
           "site": "http://garantisudoeste.org.br/"
+        }
+      },
+      {
+        "idinsti": "86",
+        "idEspInst": "013",
+        "nomeinst": "Sebrae",
+        "desc": "Sebrae",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/novas/lsebrae.png",
+        "endereco": {
+          "rua": "",
+          "num": "",
+          "bairro": "",
+          "cidade": "Francisco Beltrão - PR"
+        },
+        "contato": {
+          "pessoa": "Entre em contato com nosso o atendimento",
+          "fone": "(46) 3905-3700 | (46) 99135-7714",
+          "email":"",
+          "site": "https://www.sebraepr.com.br/"
         }
       }
     ]
@@ -1574,6 +1631,25 @@
           "fone": "(49) 3644-2024",
           "email":"taniagrespan.m@gmail.com",
           "site": "http://www.fomento.pr.gov.br/"
+        }
+      },
+      {
+        "idinsti": "87",
+        "idEspInst": "013",
+        "nomeinst": "Sebrae",
+        "desc": "Sebrae",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/novas/lsebrae.png",
+        "endereco": {
+          "rua": "",
+          "num": "",
+          "bairro": "",
+          "cidade": "Barracão - PR"
+        },
+        "contato": {
+          "pessoa": "Entre em contato com nosso o atendimento",
+          "fone": "(46) 3220-1250 | (46) 99135-7714",
+          "email":"",
+          "site": "https://www.sebraepr.com.br/"
         }
       }
     ]
