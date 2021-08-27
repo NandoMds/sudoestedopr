@@ -268,6 +268,25 @@
           "email":"",
           "site": "https://www.sebraepr.com.br/"
         }
+      },
+      {
+        "idinsti": "93",
+        "idEspInst": "008",
+        "nomeinst": "Banco da Família",
+        "desc": "Banco da Família Pato Branco",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/novas/lfa.png",
+        "endereco": {
+          "rua": "",
+          "num": "",
+          "bairro": "",
+          "cidade": "Pato Branco - PR"
+        },
+        "contato": {
+          "pessoa": "Bianca",
+          "fone": "(46) 99107-3691",
+          "email":"",
+          "site": "https://bf.org.br/"
+        }
       }
     ]
   },
@@ -584,6 +603,25 @@
           "email":"",
           "site": "https://www.sebraepr.com.br/"
         }
+      },
+      {
+        "idinsti": "94",
+        "idEspInst": "008",
+        "nomeinst": "Banco da Família",
+        "desc": "Banco da Família Francisco Beltrão",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/novas/lfa.png",
+        "endereco": {
+          "rua": "",
+          "num": "",
+          "bairro": "",
+          "cidade": "Francisco Beltrão - PR"
+        },
+        "contato": {
+          "pessoa": "Carla",
+          "fone": "(46) 99117-4581",
+          "email":"",
+          "site": "https://bf.org.br/"
+        }
       }
     ]
   },
@@ -716,6 +754,25 @@
           "email":"",
           "site": "https://www.sicredi.com.br/"
         }
+      },
+      {
+        "idinsti": "92",
+        "idEspInst": "008",
+        "nomeinst": "Banco da Família",
+        "desc": "Banco da Família Palmas",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/novas/lfa.png",
+        "endereco": {
+          "rua": "",
+          "num": "",
+          "bairro": "",
+          "cidade": "Palmas - PR"
+        },
+        "contato": {
+          "pessoa": "Ana",
+          "fone": "(46) 99106-6222",
+          "email":"",
+          "site": "https://bf.org.br/"
+        }
       }
     ]
   },
@@ -847,6 +904,25 @@
           "fone": "(42) 3553-8088",
           "email":"nadiadeastiani@hotmail.com",
           "site": "http://www.fomento.pr.gov.br/"
+        }
+      },
+      {
+        "idinsti": "91",
+        "idEspInst": "008",
+        "nomeinst": "Banco da Família",
+        "desc": "Banco da Família Bituruna",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/novas/lfa.png",
+        "endereco": {
+          "rua": "",
+          "num": "",
+          "bairro": "",
+          "cidade": "Bituruna - PR"
+        },
+        "contato": {
+          "pessoa": "Jessica",
+          "fone": "(42) 99132-7929",
+          "email":"",
+          "site": "https://bf.org.br/"
         }
       }
     ]
@@ -1419,6 +1495,25 @@
           "email":"renatabatistella26@gmail.com",
           "site": "http://www.fomento.pr.gov.br/"
         }
+      },
+      {
+        "idinsti": "95",
+        "idEspInst": "001",
+        "nomeinst": "Sicoob",
+        "desc": "Sicoob",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/novas/lsicoob.png",
+        "endereco": {
+          "rua": "",
+          "num": "",
+          "bairro": "",
+          "cidade": "Realeza - SC"
+        },
+        "contato": {
+          "pessoa": "Lucas de Mello",
+          "fone": "(46) 98833-6923",
+          "email":"",
+          "site": "https://www.sicoob.com.br/"
+        }
       }
     ]
   },
@@ -1531,6 +1626,25 @@
           "fone": "(42) 3912-7034",
           "email":"marceliserpe@gmail.com",
           "site": "http://www.fomento.pr.gov.br/"
+        }
+      },
+      {
+        "idinsti": "88",
+        "idEspInst": "008",
+        "nomeinst": "Banco da Família",
+        "desc": "Banco da Família São Mateus do Sul",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/novas/lfa.png",
+        "endereco": {
+          "rua": "",
+          "num": "",
+          "bairro": "",
+          "cidade": "São Mateus do Sul - PR"
+        },
+        "contato": {
+          "pessoa": "Taoana",
+          "fone": "(42) 99966-0467",
+          "email":"",
+          "site": "https://bf.org.br/"
         }
       }
     ]
@@ -1869,6 +1983,56 @@
           "fone": "(42) 3523-9556",
           "email":"",
           "site": "https://www.sicoob.com.br/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "nome": "Irati",
+    "instituicoes": [
+      {
+        "idinsti": "89",
+        "idEspInst": "008",
+        "nomeinst": "Banco da Família",
+        "desc": "Banco da Família Irati",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/novas/lfa.png",
+        "endereco": {
+          "rua": "",
+          "num": "",
+          "bairro": "",
+          "cidade": "Irati - PR"
+        },
+        "contato": {
+          "pessoa": "Ketlin",
+          "fone": "(42) 99144-7910",
+          "email":"",
+          "site": "https://bf.org.br/"
+        }
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "Guarapuava",
+    "instituicoes": [
+      {
+        "idinsti": "90",
+        "idEspInst": "008",
+        "nomeinst": "Banco da Família",
+        "desc": "Banco da Família Guarapuava",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/novas/lfa.png",
+        "endereco": {
+          "rua": "",
+          "num": "",
+          "bairro": "",
+          "cidade": "Guarapuava - PR"
+        },
+        "contato": {
+          "pessoa": "Kauane",
+          "fone": "(42) 99119-7938",
+          "email":"",
+          "site": "https://bf.org.br/"
         }
       }
     ]
