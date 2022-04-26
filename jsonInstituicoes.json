@@ -926,6 +926,25 @@
           "email":"",
           "site": "https://www.uniprimebr.com.br"
         }
+      },
+      {
+        "idinsti": "232",
+        "idEspInst": "014",
+        "nomeinst": "Cacispar",
+        "desc": "Cacispar",
+        "img": "https://eadleadfinder.s3.sa-east-1.amazonaws.com/Site+Src/novas/logocacispar.png",
+        "endereco": {
+          "rua": "Rua Florianópolis",
+          "num": "478",
+          "bairro": "Centro",
+          "cidade": "Francisco Beltrão - PR"
+        },
+        "contato": {
+          "pessoa": "Paulo Bueno",
+          "fone": "(46) 99972-5307",
+          "email":"cacispar@cacispar.org.br",
+          "site": "https://www.cacispar.org.br"
+        }
       }
     ]
   },
